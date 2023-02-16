@@ -65,9 +65,9 @@ Por fim, a função retorna um JSON com as informações extraídas em formato e
 
 ### Conclusão 
 
-O projeto GetLink é um organizador de links simples, mas eficaz, que permite que os usuários salvem seus links favoritos e os acessem facilmente mais tarde. Ele foi construído usando tecnologias modernas como React, Typescript, Firebase e Axios. Espero que esta documentação ajude a entender melhor como o projeto funciona e como você pode usá-lo. Se tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato.
+O projeto GetLink é um organizador de links simples, mas eficaz, que permite que os usuários salvem seus links favoritos e os acessem facilmente mais tarde. Ele foi construído usando tecnologias modernas como React, Typescript, Firebase, Python, React Router Dom, SASS e Axios. Espero que esta documentação ajude a entender melhor como o projeto funciona e como você pode usá-lo. Se tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato.
 
+### Experimente a aplicação:
 
-
-
+Para visualizar a aplicação em funcionamento acesse: https://get-link-gdktbsub6-marcus-schebek.vercel.app/
 
