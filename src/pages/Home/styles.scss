@@ -1,0 +1,66 @@
+.getLink{
+    display: flex;
+    margin: 1rem 0.5rem;
+    input{
+        padding: 0.5rem;
+        width: 18rem;
+        margin: 0 0.8rem;
+        border: 1px solid #000;
+        border-right: 3px solid #000;
+        border-bottom: 3px solid #000;
+        border-radius: 6px;
+        background-color: white;
+    }
+    button{
+        color: white;
+        background-color: var(--green);
+        font-weight: bold;
+        padding: 0.5rem;
+        border: none;
+        border-radius: 6px;
+        border: 1px solid #000;
+        border-right: 3px solid #000;
+        border-bottom: 3px solid #000;
+    }
+}
+
+.profile{
+    margin: 1rem 1.4rem;
+    gap: 0.2rem;
+    display: flex;
+    align-items: center;
+    width: 20%;
+    p{
+        font-size: 18px;
+    }
+    img{
+        border-radius: 50%;
+        width: 2.5rem;
+        height: 2.5rem;
+        border: 1px solid #000;
+        border-right: 3px solid #000;
+        border-bottom: 3px solid #000;
+
+    }
+    button{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin: auto 0.32rem;
+        height: 2.5rem;
+        width: 4rem;
+        border: none;
+        color: #fff;
+        background-color: var(--green);
+        border-radius: 8px;
+        border: solid 1px #000;
+        border-right: solid 3px #000;
+        border-bottom: solid 3px #000;
+    }
+}
+.reports{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    flex-basis: 33%;
+}

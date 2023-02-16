@@ -1,0 +1,22 @@
+:root{
+    --text: 'Cabin', sans-serif;
+    --green: hsl(148, 85%, 50%);
+    --cian: hsl(191, 85%, 61%);
+    --purple: #dd7dff;
+    --red: hsl(0, 85%, 68%);
+    --googleRed: #DA3932;
+    --greenLight: #cbf3f0;
+    --bg-color: #f6f7f8;
+    --border-color: #E2E8F0;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: var(--text);
+    text-align: start;
+}
+
+body{
+    background-color: var(--bg-color);
+}

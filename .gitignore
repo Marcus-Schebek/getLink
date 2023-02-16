@@ -1,0 +1,68 @@
+# Arquivos temporários
+*.swp
+*.swo
+*.swn
+*~.nib
+*.tmp
+*.temp
+
+# Logs e relatórios
+log/
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# Dependências
+/node_modules
+/yarn-error.log
+
+# Arquivos de construção e pacotes
+/dist
+/build
+/vendor
+.packages
+.npmrc
+.yarn-integrity
+.lock
+.env
+.env.local
+.env.test
+.env.development.local
+.env.production.local
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+yarn.lock
+yarn-error.log*
+yarn-outdated.log*
+.pnp.*
+
+# Arquivos de configuração
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Arquivos gerados durante testes
+coverage/
+.tmp/
+# Jest
+.cache/
+*.log
+node_modules/
+coverage/
+*.log
+# Cypress
+cypress/
+*.session
+*.log
+*.sh
+.env.cypress
+videos/
+screenshots/
