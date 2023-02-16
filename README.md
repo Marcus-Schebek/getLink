@@ -6,12 +6,14 @@
 
 ### Instalação e Uso
 
-Para executar o projeto, você precisará ter o Node.js e o NPM instalados em seu computador. Para instalá-los, siga as instruções no site oficial. Em seguida, execute os seguintes comandos no diretório do projeto:
+Para executar o projeto, você precisará ter o Node.js e o NPM ou Yarn instalados em seu computador. Para instalá-los, siga as instruções no site oficial. Em seguida, execute os seguintes comandos no diretório do projeto:
 
-        npm install
-        npm start
+        npm install ou yarn add
+        npm start ou yarn dev
 
-O primeiro comando instalará todas as dependências necessárias e o segundo comando iniciará o servidor local. Agora você pode acessar o aplicativo em http://localhost:3000.
+O primeiro comando instalará todas as dependências necessárias e o segundo comando iniciará o servidor local. Agora você pode acessar o aplicativo em http://localhost:3000
+
+Atente-se que a aplicação utiliza dependências do Firebase, então existe variavéis de ambiente que não serão adquiridas por essa instação padrão. Por questões de segurança inicie o seu projeto Firebase e consiga suas próprias variavéis de ambiente para que a aplicação funcione corretamente.
 
 ## Arquivos do projeto
 
