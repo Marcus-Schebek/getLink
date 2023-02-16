@@ -69,5 +69,5 @@ O projeto GetLink é um organizador de links simples, mas eficaz, que permite qu
 
 ### Experimente a aplicação:
 
-Para visualizar a aplicação em funcionamento acesse: https://get-link-gdktbsub6-marcus-schebek.vercel.app/
+Para visualizar a aplicação em funcionamento acesse: https://get-link-two.vercel.app/login
 
